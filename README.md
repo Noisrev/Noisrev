@@ -4,4 +4,4 @@
 
 - 📕 Focusing on C# & Go
 - 🔨 Creator of applications and editors
-- 🍖 Like to cook food
+- ✨ UI/UX Designer. 3D, 2D, Animations...
