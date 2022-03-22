@@ -6,5 +6,5 @@
 
 <div align="center">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noisrev&layout=compact" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noisrev&show_icons=true" />
+    <img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=noisrev&show_icons=true" />
 </div>
