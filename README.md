@@ -1,7 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Noisrev&show_icons=true&icon_color=388BFD&text_color=718096&bg_color=FFFFFF00&border_color=484F5850&hide_title=true" />
-
 ### Hi there 👋
 
-- 📕 Focusing on C# & Go
-- 🔨 Creator of applications and editors
-- ✨ UI/UX Designer. 3D, 2D, Animations...
+- 🌱 Dream of becoming a TA (Technical Artist)
+- 🔨 Specializing in developing desktop applications
+- ✨ UI/UX designer, 2D plane and 3D model
+
+<div align="center">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noisrev&layout=compact" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noisrev&show_icons=true" />
+</div>
